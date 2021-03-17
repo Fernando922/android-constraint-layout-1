@@ -27,7 +27,7 @@
 ## :thinking: How to use?
 
 ```sh
-Open any folder on Android Studio
+Open this project on Android Studio
 ```
 
 ```sh
