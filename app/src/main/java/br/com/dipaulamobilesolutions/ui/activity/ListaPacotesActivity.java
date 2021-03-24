@@ -10,7 +10,7 @@ import java.util.List;
 import br.com.dipaulamobilesolutions.dao.PacoteDAO;
 import br.com.dipaulamobilesolutions.model.Pacote;
 import br.com.dipaulamobilesolutions.myapplication.R;
-import br.com.dipaulamobilesolutions.adapter.ListaPacotesAdapter;
+import br.com.dipaulamobilesolutions.ui.adapter.ListaPacotesAdapter;
 
 public class ListaPacotesActivity extends AppCompatActivity {
 

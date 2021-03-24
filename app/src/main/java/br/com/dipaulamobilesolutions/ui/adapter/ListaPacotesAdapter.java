@@ -1,4 +1,4 @@
-package br.com.dipaulamobilesolutions.adapter;
+package br.com.dipaulamobilesolutions.ui.adapter;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
